@@ -1,27 +1,31 @@
+# 🌐 Web Development Learning Repository
 
-Web Development – Assignments & Projects
+This repository contains my **web development assignments, practical exercises, and projects** created during my learning journey.
 
-Welcome to my Web Development Learning Repository 🚀
+---
 
-This repository contains my assignments, practical work, exercises, and projects created during my learning journey.
+## 📚 Technologies
 
-📚 Technologies
+The following technologies are covered in this repository:
 
-I am learning the following technologies:
+| Technology | Purpose |
+|---|---|
+| **HTML** | Creating the structure of web pages |
+| **CSS** | Styling, layouts, and page design |
+| **JavaScript** | Programming, logic, and interactivity |
+| **React / Angular** | Frontend application development |
+| **MySQL** | Database management and SQL queries |
 
-- HTML – Web page structure
-- CSS – Styling and page design
-- JavaScript – Programming and web functionality
-- React OR Angular – Frontend development
-- MySQL – Database management
+> **Note:** React **or** Angular will be used as the frontend framework/library based on the learning requirement. Both are not required.
 
-«React or Angular: I will learn/use one of these frontend technologies as part of my learning.»
+---
 
-📂 Repository
+## 📂 Repository Structure
 
-The repository is organized by technology:
+The repository is organized into separate folders for each technology.
 
-Repository/
+```text
+Web-Development/
 │
 ├── HTML/
 │   └── HTML files
@@ -33,50 +37,66 @@ Repository/
 │   └── JavaScript files
 │
 ├── React/ OR Angular/
-│   └── Files and projects
+│   └── Assignments & projects
 │
 ├── MySQL/
 │   └── MySQL files
 │
 └── README.md
-
-🎯 Learning Goals
-
-- Learn the fundamentals of web development
-- Practice HTML, CSS, and JavaScript
-- Learn frontend development using React or Angular
-- Learn database management using MySQL
-- Build practical projects
-- Improve programming and problem-solving skills
-- Maintain all assignments and projects in one repository
-
-📖 Repository Contents
-
-This repository will contain:
-
-- HTML assignments and practicals
-- CSS assignments and designs
-- JavaScript programs and exercises
-- React or Angular assignments and projects
-- MySQL queries and database work
-- Web development projects
-
-📈 Learning Progress
-
-- [ ] HTML
-- [ ] CSS
-- [ ] JavaScript
-- [ ] React or Angular
-- [ ] MySQL
-- [ ] Assignments
-- [ ] Projects
-
-🚀 Purpose
-
-The purpose of this repository is to document my learning progress and keep all my web development assignments and projects organized in one place.
-
-I will continue updating this repository as I learn new concepts and complete new practical work.
+```
 
 ---
 
-Learn • Practice • Build • Improve 🚀
+## 🎯 Learning Objectives
+
+- Learn the fundamentals of **HTML**
+- Create and design web pages using **CSS**
+- Learn programming and web interactivity with **JavaScript**
+- Learn frontend development using **React or Angular**
+- Learn database concepts and SQL using **MySQL**
+- Complete practical assignments and exercises
+- Build projects using the technologies learned
+- Improve web development and problem-solving skills
+
+---
+
+## 📝 Assignments & Practical Work
+
+This repository will be regularly updated with:
+
+- HTML practicals and assignments
+- CSS designs and exercises
+- JavaScript programs and exercises
+- React or Angular assignments
+- MySQL queries and database exercises
+- Web development projects
+
+---
+
+## 📈 Learning Progress
+
+| Technology | Status |
+|---|---|
+| HTML | 🔄 Learning |
+| CSS | 🔄 Learning |
+| JavaScript | 🔄 Learning |
+| React / Angular | ⏳ To Learn |
+| MySQL | 🔄 Learning |
+
+---
+
+## 🚀 Purpose of This Repository
+
+The main purpose of this repository is to **store, organize, and track my web development learning work**.
+
+All assignments, practical exercises, and projects will be added here as I continue learning and improving my skills.
+
+---
+
+## 👨‍💻 Learning Journey
+
+**Learn → Practice → Build → Improve 🚀**
+
+---
+
+> 📌 This repository is created for **learning and educational purposes**.
