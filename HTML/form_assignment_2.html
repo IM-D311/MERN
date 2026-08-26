@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration Form</title>
+</head>
+
+<body>
+
+    <h1 align="center">Student Registration Form</h1>
+
+    <p align="center">
+        Please fill in the following details to register as a student.
+    </p>
+
+    <hr>
+
+    <h2>Personal Information</h2>
+
+    <pre>
+Enter your basic personal details below.
+All fields marked with * are required.
+    </pre>
+
+    <form>
+
+        <label for="name">Full Name *:</label>
+        <input type="text" id="name" name="name">
+
+        <br><br>
+
+        <label for="email">Email *:</label>
+        <input type="email" id="email" name="email">
+
+        <br><br>
+
+        <label for="password">Password *:</label>
+        <input type="password" id="password" name="password">
+
+        <br><br>
+
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob">
+
+        <br><br>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age">
+
+        <h2>Gender</h2>
+
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label>
+
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label>
+
+        <input type="radio" id="other" name="gender" value="other">
+        <label for="other">Other</label>
+
+        <h2>Education</h2>
+
+        <label for="course">Select Course:</label>
+
+        <select id="course" name="course">
+            <option>B.Com</option>
+            <option>BCA</option>
+            <option>B.Sc</option>
+            <option>BA</option>
+            <option>BBA</option>
+        </select>
+
+        <br><br>
+
+        <label for="college">College Name:</label>
+        <input type="text" id="college" name="college">
+
+        <h2>Hobbies</h2>
+
+        <input type="checkbox" id="reading" name="hobby">
+        <label for="reading">Reading</label>
+
+        <input type="checkbox" id="sports" name="hobby">
+        <label for="sports">Sports</label>
+
+        <input type="checkbox" id="music" name="hobby">
+        <label for="music">Music</label>
+
+        <input type="checkbox" id="coding" name="hobby">
+        <label for="coding">Coding</label>
+
+        <h2>Address</h2>
+
+        <label for="address">Address:</label>
+        <br>
+
+        <textarea id="address" name="address"
+                  rows="5" cols="40"></textarea>
+
+        <br><br>
+
+        <label for="photo">Upload Photo:</label>
+        <input type="file" id="photo" name="photo">
+
+        <h2>Additional Information</h2>
+
+        <p>
+            Write something about yourself:
+        </p>
+
+        <textarea id="about" name="about"
+                  rows="6" cols="50"></textarea>
+
+        <br><br>
+
+        <input type="submit" value="Register">
+        <input type="reset" value="Clear">
+
+    </form>
+
+    <hr>
+
+    <h3>Instructions</h3>
+
+    <pre>
+1. Enter correct information.
+2. Check your email address.
+3. Select your course.
+4. Click Register to submit the form.
+    </pre>
+
+    <p align="center">
+        Thank you for registering!
+    </p>
+
+</body>
+</html>
